@@ -1,0 +1,1 @@
+This directory show how to print HELLO WORLD in C Programming.
