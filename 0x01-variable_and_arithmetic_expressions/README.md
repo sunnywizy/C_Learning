@@ -1,0 +1,1 @@
+This  directory has to deal with everything that concerns variables and arithmetic expression in C Programming.
